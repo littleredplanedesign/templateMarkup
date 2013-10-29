@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--<link href="type-test.css" media="screen" rel="stylesheet"/>-->
+<style>
+html, body, div, p, table, td, tr, a, span, strong, em, b, u, form, ul, ol, li
+	{
+		font-family:arial, georgia, serif;
+		font-family:georgia, arial, sans-serif;
+	}
+	
+p
+	{
+		margin:5px;
+		padding:5px;
+	}
+
+.size1px{font-size:1px;}
+.size2px{font-size:2px;}
+.size3px{font-size:3px;}
+.size4px{font-size:4px;}
+.size5px{font-size:5px;}
+.size6px{font-size:6px;}
+.size7px{font-size:7px;}
+.size8px{font-size:8px;}
+.size9px{font-size:9px;}
+.size10px{font-size:10px;}
+.size11px{font-size:11px;}
+.size12px{font-size:12px;}
+.size13px{font-size:13px;}
+.size14px{font-size:14px;}
+.size15px{font-size:15px;}
+.size16px{font-size:16px;}
+.size17px{font-size:17px;}
+.size18px{font-size:18px;}
+.size19px{font-size:19px;}
+.size20px{font-size:20px;}
+.size21px{font-size:21px;}
+.size22px{font-size:22px;}
+.size23px{font-size:23px;}
+.size24px{font-size:24px;}
+.size25px{font-size:25px;}
+.size26px{font-size:26px;}
+.size27px{font-size:27px;}
+.size28px{font-size:28px;}
+.size29px{font-size:29px;}
+.size30px{font-size:30px;}
+.size31px{font-size:31px;}
+.size32px{font-size:32px;}
+.size33px{font-size:33px;}
+.size34px{font-size:34px;}
+.size35px{font-size:35px;}
+.size36px{font-size:36px;}
+.size37px{font-size:37px;}
+.size38px{font-size:38px;}
+.size39px{font-size:39px;}
+.size40px{font-size:40px;}
+.size41px{font-size:41px;}
+.size42px{font-size:42px;}
+.size43px{font-size:43px;}
+.size44px{font-size:44px;}
+.size45px{font-size:45px;}
+.size46px{font-size:46px;}
+.size47px{font-size:47px;}
+.size48px{font-size:48px;}
+.size49px{font-size:49px;}
+.size50px{font-size:50px;}
+</style>
+<title>Untitled Document</title>
+</head>
+
+<body>
+<!--ZEN EXPRESSION - PLEASE COPY BEFORE USE, THE ORIGINAL IS NOT PRESERVED-->
+<!--p[class=size$px]*46{font-size:$px}*46-->
+
+<p class="size1px">font-size:1px</p>
+<p class="size2px">font-size:2px</p>
+<p class="size3px">font-size:3px</p>
+<p class="size4px">font-size:4px</p>
+<p class="size5px">font-size:5px</p>
+<p class="size6px">font-size:6px</p>
+<p class="size7px">font-size:7px</p>
+<p class="size8px">font-size:8px</p>
+<p class="size9px">font-size:9px</p>
+<p class="size10px">font-size:10px</p>
+<p class="size11px">font-size:11px</p>
+<p class="size12px">font-size:12px</p>
+<p class="size13px">font-size:13px</p>
+<p class="size14px">font-size:14px</p>
+<p class="size15px">font-size:15px</p>
+<p class="size16px">font-size:16px</p>
+<p class="size17px">font-size:17px</p>
+<p class="size18px">font-size:18px</p>
+<p class="size19px">font-size:19px</p>
+<p class="size20px">font-size:20px</p>
+<p class="size21px">font-size:21px</p>
+<p class="size22px">font-size:22px</p>
+<p class="size23px">font-size:23px</p>
+<p class="size24px">font-size:24px</p>
+<p class="size25px">font-size:25px</p>
+<p class="size26px">font-size:26px</p>
+<p class="size27px">font-size:27px</p>
+<p class="size28px">font-size:28px</p>
+<p class="size29px">font-size:29px</p>
+<p class="size30px">font-size:30px</p>
+<p class="size31px">font-size:31px</p>
+<p class="size32px">font-size:32px</p>
+<p class="size33px">font-size:33px</p>
+<p class="size34px">font-size:34px</p>
+<p class="size35px">font-size:35px</p>
+<p class="size36px">font-size:36px</p>
+<p class="size37px">font-size:37px</p>
+<p class="size38px">font-size:38px</p>
+<p class="size39px">font-size:39px</p>
+<p class="size40px">font-size:40px</p>
+<p class="size41px">font-size:41px</p>
+<p class="size42px">font-size:42px</p>
+<p class="size43px">font-size:43px</p>
+<p class="size44px">font-size:44px</p>
+<p class="size45px">font-size:45px</p>
+<p class="size46px">font-size:46px</p>
+<p class="size47px">font-size:47px</p>
+<p class="size48px">font-size:48px</p>
+<p class="size49px">font-size:49px</p>
+<p class="size50px">font-size:50px</p>
+</body>
+</html>
