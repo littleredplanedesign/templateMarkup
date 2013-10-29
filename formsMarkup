@@ -1,0 +1,53 @@
+<!--
+
+ACTION => THE LOCATION OF THE FORMS PROCESSING SCRIPT
+
+POST => SENDS A SEPARATE SERVER REQUEST
+PERFERABLE FOR
+	LARGE AMOUNTS OF DATA
+    SECURE TRANSACTIONS
+    
+GET => SEND THE INFO IN THE URL STRING AND HAS A 256 CHARACTER LIMIT
+PREFERABLE FOR
+	BOOKMARKED RESULTS
+    SHORT ENTRIES
+    NOT SECURE
+	
+NAMES ARE TAKEN FROM YOUR FORMS PROCESSING SCRIPT
+LABELS ARE THE USER FACING LABELS
+
+YOU'LL WANT ID'S ON EACH INPUT TAG
+
+DIFFERENT ENCTYPES DEPENDING ON FORM DATA
+WITH A FILE UPLOAD, MULTIPART/FORM-DATA AND POST ARE REQUIRED
+
+-->
+<form action="" method="post" enctype="multipart/form-data">
+<ul>
+<li><label>Name: <input type="text" name="" value="123456789" size="9" maxlength="10" /></li></label>
+<li><label>Password: <input type="password" name="" /></li></label>
+<li><textarea rows="10" cols="20">0123456789012345678901234567890123456789</textarea></li>
+<li><label>Checkbox: <input type="checkbox" name="" /></li></label>
+<li><label>Radio One: <input type="radio" name="" /></li></label>
+<li><label>Submit :<input type="submit" name="" /></li></label>
+<li><label>Reset :<input type="reset" name="" /></li></label>
+<li><label>File :<input type="file" name="" /></li></label>
+<li><label>Hidden :<input type="hidden" name="" /></li></label>
+<li><label>Custom Button :<input type="button" name="" value="Button"/></li></label>
+<li><label>Image Button :<input type="image" name="" /></li></label>
+<li><label for="select-example"></label>
+<select id="select-example" size="3" multiple="multiple">
+<optgroup label="Group 1">
+<option>Group 1</option>
+<option>Group 1</option>
+<option>Group 1</option>
+</optgroup>
+<optgroup label="Group 2">
+<option>Group 2</option>
+<option>Group 2</option>
+<option>Group 2</option>
+</optgroup>
+</select>
+</li>
+</ul>
+</form>
