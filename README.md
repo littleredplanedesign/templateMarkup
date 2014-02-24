@@ -1,4 +1,3 @@
-templateMarkup
-==============
+# Template Markup
 
-Reference for quick markup.
+Reference for quick markup snippets.
